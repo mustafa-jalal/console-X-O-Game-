@@ -1,7 +1,7 @@
 #include <iostream>
 #include <windows.h>
-#include "../X-O Game/headers/play.h"
-#include "../X-O Game/headers/winner.h"
+#include "../headers/play.h"
+#include "../headers/winner.h"
 using namespace std;
 
 int main () {
