@@ -4,7 +4,7 @@
 #include "../X-O Game/headers/winner.h"
 using namespace std;
 
-int main (){
+int main () {
     while (winner() == 's' && counter < 9){
         matrix_pr();
         play();
