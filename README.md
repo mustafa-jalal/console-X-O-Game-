@@ -1,2 +1,2 @@
 # console-X-O-Game-
-sample console X-O Game between two plyers x and o
+sample console X-O Game between two players x and o
